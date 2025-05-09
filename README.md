@@ -11,9 +11,6 @@ A simple feedforward neural network implementation for battery-related predictiv
 ## 🔄 Upcoming Projects
 Additional tools and advanced models will be added after publication of associated papers. This includes extended electrochemical models and neural network sorrugate models
 
-## About Me
-👨‍🔬 I’m a PhD student with a focus on data-driven, emperical and physics-based modeling of lithium-ion batteries. This repository is a part of my commitment to open science and knowledge sharing.
-
 ## Getting Started
 Each subfolder contains:
 - A dedicated `README.md`

@@ -5,10 +5,10 @@ This repository hosts a collection of models, dashboards, and algorithms develop
 
 ## Projects Included
 
-### 🔹 Multi-Layer Perceptron (MLP) for Battery Prediction
+### 🔹 Machine Learning: Multi-Layer Perceptron (MLP) for Battery Prediction
 A simple feedforward neural network implementation for battery-related predictive tasks such as state estimation or capacity forecasting.
 
-### 🔹 Washington EV Analysis Dashboard
+### 🔹 Data Visaulisation: Washington EV Analysis Dashboard
 An interactive Tableau dashboard visualising the electric vehicle (EV) population across Washington State. This dashboard presents insights into vehicle types, geographical distribution, and temporal trends in EV adoption using open data from Data.gov.
 
 📊 [View data source](https://catalog.data.gov/dataset/electric-vehicle-population-data)

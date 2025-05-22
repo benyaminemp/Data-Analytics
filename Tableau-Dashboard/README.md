@@ -51,25 +51,9 @@ The dashboard provides visual insights through several key components:
 
 ---
 
-## 🚀 Getting Started
-
-To explore or modify this dashboard:
-
-1. Download and install **Tableau Desktop**.
-2. Open the `.twb` file in Tableau.
-3. Refresh the data source if needed.
-4. Interact with filters, maps, and charts to explore insights.
-
----
-
 ## 📌 License & Use
 
 This project is for educational and non-commercial use, utilizing open data made available by the government. Please credit [Data.gov](https://catalog.data.gov/) if you reuse the dataset.
 
----
 
-## 👨‍💻 Author
-
-**Benyamin Ebrahimpour**  
-For questions or collaboration, feel free to connect!
 
